@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CTAGA Concept//Public Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:spring-show-2027@ctaga-concept.local
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+SUMMARY:Spring Wichita Gun Show
+LOCATION:Heartland Credit Union Arena\, 8151 N Arena Dr\, Park City KS
+DESCRIPTION:CTAGA design concept. Confirm hours and admission with the club.
+URL:https://www.ctaga.com/gun-show
+END:VEVENT
+END:VCALENDAR
